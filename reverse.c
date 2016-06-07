@@ -16,6 +16,6 @@ int main()
     b[j]=a[i];
     j++;
   }
-  printf("Reversed string:",b);
+  printf("Reversed string:%s",b);
   getch();
 }
