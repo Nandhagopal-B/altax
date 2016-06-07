@@ -5,7 +5,7 @@ int main()
   int i,j,l;
   char a[20],b[20];
   printf("Enter a string:");
-  scanf("%s",&str);
+  scanf("%s",&a);
   for(i=0;a[i]!='\0';i++)
   {
     l++;
