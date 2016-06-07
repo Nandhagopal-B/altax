@@ -11,6 +11,7 @@ int main()
     l++;
   }
   j=0;
+  l=l-1;
   for(i=l;i!=-1;i--)
   {
     b[j]=a[i];
